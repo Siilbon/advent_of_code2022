@@ -103,5 +103,5 @@ def total_score(data_path, part=1):
 #%% Part 01
 print(f'D02P1 solution: {total_score(data_path=data_path)}')
 
-# %%
+#%% Part 02
 print(f'D02P2 solution: {total_score(data_path=data_path, part=2)}')
